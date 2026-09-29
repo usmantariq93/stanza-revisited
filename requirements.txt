@@ -1,0 +1,4 @@
+stanza==1.14.0
+spacy==3.8.16
+torch==2.14.0
+numpy==2.5.3
